@@ -4,12 +4,12 @@ installerTitle: "BetterRTX 1.4 : Klash Graphics RTX"
 slug: klash-brtx
 version: 1.0
 brtxVersion: 1.4
-rtxStub: https://cdn.bedrock.graphics/presets/betterrtx-pixelated-lighting/materials/RTXStub.material.bin
-toneMappingStub: https://cdn.bedrock.graphics/presets/betterrtx-pixelated-lighting/materials/RTXPostFX.Tonemapping.material.bin
-bloomStub: https://cdn.bedrock.graphics/presets/betterrtx-pixelated-lighting/materials/RTXPostFX.Bloom.material.bin
+rtxStub: https://github.com/K3013/presets/raw/refs/heads/main/data/c5fd9111-2395-4c5a-b125-9d82ae749dfe/Stubs/RTXStub.material.bin
+toneMappingStub: https://github.com/K3013/presets/raw/refs/heads/main/data/c5fd9111-2395-4c5a-b125-9d82ae749dfe/Stubs/RTXPostFX.Tonemapping.material.bin
+bloomStub: https://github.com/K3013/presets/raw/refs/heads/main/data/c5fd9111-2395-4c5a-b125-9d82ae749dfe/Stubs/RTXPostFX.Bloom.material.bin
 lastUpdated: 2025-09-30
 author: "K3013"
-tags: [ Rain, Tone Mapping, Shadows, Survival, Water, Sky, Deferred-Inspired]
+tags: [ Tone Mapping, Shadows, Survival, Water, Sky ]
 ---
 
 <p className="lead">A BetterRTX preset inspired by my Deferred shaderpack : Klash Graphics Deferred !</p>
